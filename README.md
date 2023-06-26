@@ -1,8 +1,11 @@
 
 `**ReactWrite**`
-`deployed link :: ` https://sweet-kitten-6dd4ab.netlify.app/
 
 This is a simple React application designed for maintaining notes. It allows users to add, delete, and view notes, with the data being stored in the local storage of the browser. Even if the page is refreshed, the notes will persist and not be lost.
+
+`Deployment`
+
+You can access the deployed version of the React Notes App by following the link below https://sweet-kitten-6dd4ab.netlify.app/
 
 `**Features**`
 
@@ -32,7 +35,7 @@ if the page is refreshed or the browser is closed.
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/snehil21/reactwrite.git
+git clone https://github.com/snehil21/Notesapp.git
 Navigate to the project directory:
 bash
 Copy code
