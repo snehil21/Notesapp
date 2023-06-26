@@ -1,5 +1,5 @@
 
-`**ReactWrite**`
+`**NOTESAPP**`
 
 This is a simple React application designed for maintaining notes. It allows users to add, delete, and view notes, with the data being stored in the local storage of the browser. Even if the page is refreshed, the notes will persist and not be lost.
 
