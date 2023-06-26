@@ -22,6 +22,7 @@ if the page is refreshed or the browser is closed.
 
 
 `**Technologies Used**`
+
 `React:` The application is built using React, a popular JavaScript library for building user interfaces.
 
 `HTML:` The structure and layout of the app are created using HTML.
