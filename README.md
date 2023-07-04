@@ -31,6 +31,9 @@ if the page is refreshed or the browser is closed.
 
 `Local Storage:` The local storage feature of the browser is leveraged to store and retrieve the notes.
 
+``` Deployed link
+https://reactwrite.netlify.app/
+
 `To run the application locally, follow these steps:`
 
 Clone the repository:
@@ -48,3 +51,4 @@ Start the development server:
 Copy code
 npm start
 Open your web browser and visit http://localhost:3000 to access the application.
+
