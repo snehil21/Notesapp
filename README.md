@@ -34,21 +34,3 @@ if the page is refreshed or the browser is closed.
 ``` Deployed link
 https://reactwrite.netlify.app/
 
-`To run the application locally, follow these steps:`
-
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/snehil21/Notesapp.git
-Navigate to the project directory:
-bash
-Copy code
-cd react-notes-app
-Copy code
-npm install
-
-Start the development server:
-Copy code
-npm start
-Open your web browser and visit http://localhost:3000 to access the application.
-
